@@ -1,14 +1,21 @@
 Project Title: Recipe Sharing API
+
 Group name: Dambill
+
 Group Members: Erica Ravanera
 		   Jennelyn Encarnacion
 		   Rheabel Pineda
 		   Lyka Murillo
+     
 Overview of the project
+
 The Recipe Sharing API project involves the development of a RESTful API to enable users to share their favorite recipes. This project will be accessible to everyone, offering a rich and diverse collection of culinary creations. Users can add new recipes to the system, each including essential details such as a title, a list of ingredients, cooking instructions, and optional tags or categories to help organize the recipes (e.g., Breakfast, Lunch, Dinner, and Dessert). Additionally, users will have the ability to view, edit, and delete their recipes, ensuring a dynamic and user-driven experience.
 Purpose
 The purpose of the Recipe Sharing API project is to provide a platform where users can share their favorite recipes with others. The project aims to build a RESTful API that allows users to create, manage, view, edit, and delete recipes, including essential details such as titles, ingredients, cooking instructions, and optional tags or categories. This platform encourages collaboration and community engagement by facilitating the exchange of diverse recipes among users.
+
+
 Features
+
 •	User Authentication: Allow users to create accounts and log in to manage their recipes.
 •	Retrieve Recipes by Category: Retrieve all recipes for breakfast, lunch, dinner, and dessert.
 •	Retrieve a Specific Recipe: Retrieve a specific recipe by its name or ID.
@@ -16,6 +23,7 @@ Features
 •	Modify an Existing Recipe: Allow users to modify an existing recipe.
 •	Delete a Recipe: Allow users to delete a recipe.
 Setup
+
 1. Install all the dependencies (node.js, express.js, uuid).
 2. Clone the repository.
 3. Run the server by executing the command (node app.js).
