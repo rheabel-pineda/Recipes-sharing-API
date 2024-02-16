@@ -1,0 +1,158 @@
+[
+    {
+        "recipeId": 1,
+        "name": "Adobo Chicken",
+        "category": "Lunch",
+        "ingredients": [
+            "Chicken thighs or drumsticks",
+            "Soy sauce",
+            "Vinegar",
+            "Garlic",
+            "Bay leaves",
+            "Whole black peppercorns",
+            "Cooking oil"
+        ],
+        "instructions": [
+            "1. In a pot, combine chicken, soy sauce, vinegar, garlic, bay leaves, and peppercorns.",
+            "2. Marinate for at least 30 minutes.",
+            "3. Simmer over low heat until chicken is tender and sauce is reduced.",
+            "4. Heat oil in a skillet and brown the chicken pieces.",
+            "5. Serve hot with rice."
+        ]
+    },
+    {
+        "recipeId": 3,
+        "name": "Lechon Kawali",
+        "category": "Dinner",
+        "ingredients": [
+            "Pork belly",
+            "Salt",
+            "Pepper",
+            "Water",
+            "Cooking oil"
+        ],
+        "instructions": [
+            "1. Score pork belly skin with a sharp knife and rub with salt and pepper.",
+            "2. Place pork belly in a pot and add enough water to cover.",
+            "3. Simmer until pork is tender and water has evaporated.",
+            "4. Heat oil in a deep frying pan and fry pork until skin is crispy and golden brown.",
+            "5. Slice and serve with a dipping sauce of vinegar, soy sauce, and minced garlic."
+        ]
+    },
+    {
+        "recipeId": 4,
+        "name": "Ginataang Kalabasa at Sitaw",
+        "category": "Dinner",
+        "ingredients": [
+            "Squash (kalabasa), cubed",
+            "String beans (sitaw), cut into 2-inch lengths",
+            "Garlic, minced",
+            "Onion, chopped",
+            "Shrimp, peeled and deveined",
+            "Coconut milk (gata)",
+            "Fish sauce (patis)",
+            "Pepper",
+            "Cooking oil"
+        ],
+        "instructions": [
+            "1. In a pan, sauté garlic and onion until soft.",
+            "2. Add shrimp and cook until pink.",
+            "3. Pour coconut milk into the pan and bring to a simmer.",
+            "4. Add squash and cook until tender.",
+            "5. Add string beans and cook until both vegetables are done.",
+            "6. Season with fish sauce and pepper.",
+            "7. Serve hot with rice."
+        ]
+    },
+    {
+        "recipeId": 5,
+        "name": "Chicken Tinola",
+        "category": "Dinner",
+        "ingredients": [
+            "Chicken pieces",
+            "Ginger, sliced",
+            "Garlic, minced",
+            "Onion, chopped",
+            "Fish sauce (patis)",
+            "Water",
+            "Green papaya, cubed",
+            "Chili leaves or spinach",
+            "Salt",
+            "Pepper",
+            "Cooking oil"
+        ],
+        "instructions": [
+            "1. In a pot, sauté ginger, garlic, and onion until fragrant.",
+            "2. Add chicken pieces and cook until slightly browned.",
+            "3. Pour water into the pot and bring to a boil.",
+            "4. Add fish sauce and simmer until chicken is tender.",
+            "5. Add green papaya and cook until soft.",
+            "6. Stir in chili leaves or spinach.",
+            "7. Season with salt and pepper.",
+            "8. Serve hot."
+        ]
+    },
+    {
+        "recipeId": 6,
+        "name": "Bicol Express",
+        "category": "Dinner",
+        "ingredients": [
+            "Pork belly, sliced thinly",
+            "Garlic, minced",
+            "Onion, chopped",
+            "Coconut milk (gata)",
+            "Shrimp paste (bagoong)",
+            "Long green chili peppers (siling pansigang)",
+            "Cooking oil"
+        ],
+        "instructions": [
+            "1. In a pan, sauté garlic and onion until soft.",
+            "2. Add pork belly slices and cook until browned.",
+            "3. Pour coconut milk into the pan and bring to a simmer.",
+            "4. Stir in shrimp paste according to taste.",
+            "5. Add long green chili peppers and cook until pork is tender.",
+            "6. Serve hot with rice."
+        ]
+    },
+    {
+        "recipeId": 7,
+        "name": "Lumpiang Shanghai",
+        "category": "Snack",
+        "ingredients": [
+            "Ground pork",
+            "Carrots, grated",
+            "Onion, minced",
+            "Garlic, minced",
+            "Spring roll wrappers",
+            "Egg, beaten",
+            "Salt",
+            "Pepper",
+            "Cooking oil"
+        ],
+        "instructions": [
+            "1. In a bowl, mix together ground pork, carrots, onion, and garlic.",
+            "2. Season with salt and pepper.",
+            "3. Wrap the mixture in spring roll wrappers, sealing the edges with beaten egg.",
+            "4. Heat oil in a pan and fry the spring rolls until golden brown and crispy.",
+            "5. Drain on paper towels.",
+            "6. Serve hot with sweet chili sauce for dipping."
+        ]
+    },
+    {
+        "recipeId": "2ee2775c-cc36-4297-a787-ef59440cefb7",
+        "name": "Fried fish",
+        "category": "Breakfast",
+        "ingredients": [
+            "oil",
+            "fish",
+            "salt"
+        ],
+        "instructions": [
+            "1. Wash and clean the fish.",
+            "2. Place a pan on the stove and heat it up.",
+            "3. Put oil in the pan and heat it up.",
+            "4. Place the fish in the pan and cook until done.",
+            "5. You can now serve and eat it. "
+        ]
+    }
+]
